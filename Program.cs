@@ -11,7 +11,7 @@ namespace CSharp
           ContaCorrente CC2 = new ContaCorrente("Bruno", 42, 22);
 
           CC.deposita(300);
-          
+          CC.saca(200);          
        }
    } 
 }

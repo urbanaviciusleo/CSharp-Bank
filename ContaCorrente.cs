@@ -18,4 +18,11 @@ public class ContaCorrente
         this.Saldo += valor;
         return this.Saldo;
     }
+
+    public void saca(double valor)
+    {
+        if(valor <= this.Saldo ){
+        this.Saldo -= valor;
+    }
+}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\Desktop\\CSharp\\CSharp.csproj": {}
+    "D:\\Escola\\Aula Bárbara\\C-Bank\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\Desktop\\CSharp\\CSharp.csproj": {
+    "D:\\Escola\\Aula Bárbara\\C-Bank\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Desktop\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "D:\\Escola\\Aula Bárbara\\C-Bank\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\leona\\Desktop\\CSharp\\CSharp.csproj",
+        "projectPath": "D:\\Escola\\Aula Bárbara\\C-Bank\\CSharp.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Desktop\\CSharp\\obj\\",
+        "outputPath": "D:\\Escola\\Aula Bárbara\\C-Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
