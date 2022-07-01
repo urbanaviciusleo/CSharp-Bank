@@ -1,0 +1,15 @@
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\Users\leona\Desktop\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\leona\Desktop\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\leona\Desktop\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\Users\leona\Desktop\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\Users\leona\Desktop\CSharp\obj\Debug\net6.0\ref\CSharp.dll
